@@ -1,0 +1,1 @@
+console.log('Ahmed Hasan Digitizing website loaded');
